@@ -93,4 +93,6 @@
 /.idea/
 
 # Ignore .env files as they are personal
-#/.env
+/.env
+/.twig-cs-fixer.dist.php
+/phpstan.neon.dist

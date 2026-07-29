@@ -53,7 +53,8 @@
             "allowed-packages": ["lullabot/drainpipe", "lullabot/drainpipe-dev"]
         },
         "drainpipe": {
-            "github": []
+            "github": [],
+            "tugboat": {}
         },
         "installer-paths": {
             "web/core": [

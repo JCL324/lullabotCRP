@@ -52,6 +52,9 @@
             "gitignore": "true",
             "allowed-packages": ["lullabot/drainpipe", "lullabot/drainpipe-dev"]
         },
+        "drainpipe": {
+            "github": []
+        },
         "installer-paths": {
             "web/core": [
                 "type:drupal-core"

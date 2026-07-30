@@ -10,3 +10,4 @@
 /Taskfile.yml
 *.sql
 *.sql.gz
+.tugboat

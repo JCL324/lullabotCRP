@@ -1,0 +1,12 @@
+# Files that won't be deployed to Pantheon
+/.ddev
+/.github
+/.yarn
+/files/db
+/tests
+/.env
+/.env.defaults
+/README.md
+/Taskfile.yml
+*.sql
+*.sql.gz

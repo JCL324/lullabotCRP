@@ -51,7 +51,7 @@
                 "web-root": "web/"
             },
             "gitignore": "true",
-            "allowed-packages": ["lullabot/drainpipe", "lullabot/drainpipe-dev"]
+            "allowed-packages": ["lullabot/drainpipe", "lullabot/drainpipe-dev", "pantheon-systems/drupal-integrations"]
         },
         "drainpipe": {
             "github": [],

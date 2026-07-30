@@ -11,3 +11,4 @@
 *.sql
 *.sql.gz
 .tugboat
+/web/sites/default/files
